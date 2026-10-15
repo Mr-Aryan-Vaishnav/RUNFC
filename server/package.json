@@ -39,9 +39,6 @@
     "mongodb-memory-server": "^11.2.0",
     "supertest": "^6.3.4",
     "typescript": "^5.7.2",
-    "vitest": "^5.0.3"
-  },
-  "overrides": {
-    "tar": "^7.5.22"
+    "vitest": "^2.1.9"
   }
 }
